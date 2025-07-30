@@ -1,5 +1,9 @@
 # Basic-C
 <br>
 Author - Kunal Saini
+<br>
 [UPES](https://github.com/Kunal-Error404/Basic-C-programs/blob/3be6666fcfd9ce97251cba7d7eeeb5848d91121d/hello.c)
-[UPES](
+<br>
+[UPES](https://github.com/Kunal-Error404/Basic-C-programs/blob/f7842dbc694f3600a6266282ba0717b786eb2820/prime.c)
+<br>
+
