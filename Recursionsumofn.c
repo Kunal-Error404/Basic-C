@@ -1,7 +1,7 @@
 #include <stdio.h>
 int sum(int n);
 int main(){
-    printf("sum of n natural numbers is %d",sumn(5));
+    printf("sum of n natural numbers is %d",sum(5));
     return 0;
 }
 int sum(int n){
